@@ -2,9 +2,9 @@
 
 I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
 
-• Currently learning **HTML, CSS & JavaScript**;
-<br/>• Enthusiastic about **Node.JS, ReactJS, React Native** and the best web & mobile development technologies;
-<br/>• I love to talk about: Programming, Blockchain, Science, Astronomy;
+• Currently focused on **Javascript** stack;
+<br/>• Enthusiast about the best web & mobile development technologies;
+<br/>• I love to talk about: Programming, Science, Astronomy;
 <br/>• Curious fact: I am also Tourismologist graduated from PUCRS and I worked hard in the area for the last 5 years.
 
 >*“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” ― Steve Jobs*
