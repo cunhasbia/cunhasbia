@@ -2,7 +2,7 @@
 
 I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
 
-• Currently working at IBM :blue_heart:
+• Currently working at **IBM** :blue_heart:
 <br/>• Focused on **Javascript** stack;
 <br/>• Enthusiast about the best development technologies;
 <br/>• I love to talk about: Programming, Science, Astronomy, Blockchain, Music;
