@@ -10,6 +10,6 @@ I'm a software development student who loves the vastness of technology and who 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
 ![Bianca's github stats](https://github-readme-stats.vercel.app/api?username=cunhasbia&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vision-friendly-dark)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&theme=vision-friendly-dark&layout=compact)](https://github.com/cunhasbia/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&&layout=compact&theme=vision-friendly-dark)](https://github.com/cunhasbia/github-readme-stats)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bianca%20Cunha-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancascunha/)](https://www.linkedin.com/in/biancascunha/) [![Gmail Badge](https://img.shields.io/badge/-biancunha@gmail.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancunha@gmail.com)](mailto:biancunha@gmail.com)
