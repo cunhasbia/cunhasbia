@@ -24,7 +24,7 @@ I'm a software development student who loves the vastness of technology and who 
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&hide=html,css&layout=compact&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&&layout=compact&theme=vision-friendly-dark"
     />
   </a>
 </p>
