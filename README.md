@@ -1,4 +1,4 @@
-## Hi, Welcome! :)
+## Hi there! Welcome :)
 
 I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
 
@@ -16,7 +16,7 @@ I'm a software development student who loves the vastness of technology and who 
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=cunhasbia&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=cunhasbia&count_private=true&show_icons=true&custom_title=Bianca's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
     />
   </a>
   
