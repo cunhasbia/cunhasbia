@@ -10,7 +10,6 @@ I'm a software development student who loves the vastness of technology and who 
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
-#### View my stats on Github
 <p align="center">
   <a href="https://github.com/cunhasbia/github-readme-stats">
     <img
