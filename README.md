@@ -4,9 +4,9 @@ I'm a software development student who loves the vastness of technology and who 
 
 • Currently working at **IBM** :blue_heart:
 <br/>• Focused on **Javascript** stack;
-<br/>• Enthusiast about the best development technologies;
-<br/>• I love to talk about: Programming, Science, Astronomy, Blockchain, Music;
-<br/>• Curious fact: I am also Tourismologist graduated from PUCRS and I worked hard in the area for 5 years.
+<br/>• Enthusiast about the best **development** technologies;
+<br/>• **I love to talk about**: Programming, Science, Astronomy, Blockchain, Music;
+<br/>• **Curious fact**: I am also Tourismologist graduated from PUCRS and I worked hard in the area for 5 years.
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
