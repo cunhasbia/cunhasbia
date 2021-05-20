@@ -3,14 +3,14 @@
 I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
 
 • Currently working at **IBM** :blue_heart:
-<br/>• Focused on **Javascript** stack;
-<br/>• Enthusiast about the best **development** technologies;
-<br/>• **I love to talk about**: Programming, Science, Astronomy, Blockchain, Music;
-<br/>• **Curious fact**: I am also Tourismologist graduated from PUCRS and I worked hard in the area for 5 years.
+<br/>• Focused on **Javascript** stack
+<br/>• Enthusiast about the best **development** technologies
+<br/>• **I love to talk about**: Programming, Science, Astronomy, Blockchain, Music
+<br/>• **Curious fact**: I am also Tourismologist graduated from PUCRS and I worked hard in the area for 5 years
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
-<div style="display:flex;">
+<p>
   <a href="https://github.com/cunhasbia/github-readme-stats">
     <img
       height="156" 
@@ -20,10 +20,10 @@ I'm a software development student who loves the vastness of technology and who 
   
   <a href="https://github.com/cunhasbia/github-readme-stats">
     <img
-      height="156" 
+      height="156"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
     />
   </a>
-</div>
+<p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bianca%20Cunha-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancascunha/)](https://www.linkedin.com/in/biancascunha/) [![Gmail Badge](https://img.shields.io/badge/-biancunha@gmail.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancunha@gmail.com)](mailto:biancunha@gmail.com)
