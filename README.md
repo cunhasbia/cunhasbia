@@ -2,10 +2,15 @@
 
 I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
 
-• Currently working at **IBM** :blue_heart:
+• Currently working at **@IBM** :blue_heart:
 <br/>• Focused on **Javascript** stack
-<br/>• Enthusiast about the best **development** technologies
-<br/>• **I love to talk about**: Programming, Science, Astronomy, Blockchain, Music
+<br/>• Enthusiast about the best **web development** technologies
+<br/>• Knowledge/skills:
+
+**Front end**: Javascript • React • Redux • Ajax • Axios • HTML • CSS • SASS • Jest • Webpack • SEO<br/>
+**Back end**: Nodejs • Rest APIs • TDD with Jest • PostgreSQL • Sequelize • JWT • MVC • Swagger docs
+
+• **I love to talk about**: Programming, Science, Astronomy, Blockchain, Music
 <br/>• **Curious fact**: I am also Tourismologist graduated from PUCRS and I worked hard in the area for 5 years
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
