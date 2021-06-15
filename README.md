@@ -5,13 +5,11 @@ I'm a software development student who loves the vastness of technology and who 
 • Currently working at **@IBM** :blue_heart:
 <br/>• Focused on **Javascript** stack
 <br/>• Enthusiast about the best **web development** technologies
+<br/>• I **love to talk about**: Programming, Science, Astronomy, Blockchain, Music
 <br/>• Knowledge/skills:
 
 **Front end**: Javascript • React • Redux • Ajax • Axios • HTML • CSS • SASS • Jest • Webpack • SEO<br/>
 **Back end**: Nodejs • Rest APIs • TDD with Jest • PostgreSQL • Sequelize • JWT • MVC • Swagger docs
-
-• **I love to talk about**: Programming, Science, Astronomy, Blockchain, Music
-<br/>• **Curious fact**: I am also Tourismologist graduated from PUCRS and I worked hard in the area for 5 years
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
@@ -30,5 +28,5 @@ I'm a software development student who loves the vastness of technology and who 
     />
   </a>
 <p>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Bianca%20Cunha-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancascunha/)](https://www.linkedin.com/in/biancascunha/) [![Gmail Badge](https://img.shields.io/badge/-biancunha@gmail.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancunha@gmail.com)](mailto:biancunha@gmail.com)
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin:%20@biancascunha-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancascunha/)](https://www.linkedin.com/in/biancascunha/) [![Gmail Badge](https://img.shields.io/badge/-Email:%20biancunha@gmail.com-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancunha@gmail.com)](mailto:biancunha@gmail.com)
