@@ -6,10 +6,12 @@ I'm a software development student who loves the vastness of technology and who 
 <br/>• Focused on **Javascript** stack
 <br/>• Enthusiast about the best **web development** technologies
 <br/>• I **love to talk about**: Programming, Science, Astronomy, Blockchain, Music
-<br/>• Knowledge/skills:
 
-**Front end**: Javascript ES6+ • HTML • CSS/SASS • ReactJS • Styled Components • Redux • Axios • Jest • Webpack • SEO <br/>
-**Back end**: Nodejs • Rest APIs • TDD with Jest • PostgreSQL • Sequelize • JWT • MVC • Swagger docs
+**Front end skills**:</br>
+Javascript ES6+ • HTML • CSS/SASS • ReactJS • Styled Components • Redux • Axios • Jest • Webpack • SEO
+
+**Back end skills**:<br/>
+Nodejs • Rest APIs • TDD with Jest • PostgreSQL • Sequelize • JWT • MVC • Swagger docs
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
