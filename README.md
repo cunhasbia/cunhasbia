@@ -15,20 +15,13 @@ Nodejs • Rest APIs • TDD with Jest • PostgreSQL • SQLite • Sequelize �
 
 **I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
 
-<p>
-  <a href="https://github.com/cunhasbia/github-readme-stats">
-    <img
-      height="156" 
-      src="https://github-readme-stats.vercel.app/api?username=cunhasbia&count_private=true&show_icons=true&custom_title=Bianca's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
-    />
-  </a>
-  <a href="https://github.com/cunhasbia/github-readme-stats">
-    <img
-      height="156"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&layout=compact&theme=vision-friendly-dark&langs_count=8)"
-    />
-  </a>
-<p>
- 
-[![Linkedin Badge](https://img.shields.io/badge/-|%20Find%20me%20on%20Linkedin-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancascunha/)](https://www.linkedin.com/in/biancascunha/)
+
+<a href="https://github.com/cunhasbia/github-readme-stats">
+  <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=cunhasbia&count_private=true&show_icons=true&custom_title=Bianca's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/cunhasbia/github-readme-stats">
+   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&layout=compact&theme=vision-friendly-dark&langs_count=8)" />
+</a>
+
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-|%20Find%20me%20on%20Linkedin-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biancascunha/)](https://www.linkedin.com/in/biancascunha/)
 [![Gmail Badge](https://img.shields.io/badge/-|%20Send%20me%20an%20email-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biancunha@gmail.com)](mailto:biancunha@gmail.com)
