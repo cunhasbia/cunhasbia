@@ -7,14 +7,15 @@ I'm a software development student who loves the vastness of technology and who 
 <br/>• Enthusiast about the best **web development** technologies
 <br/>• I **love to talk about**: Programming, Science, Astronomy, Blockchain, Music
 
+**Learning about**:</br> Typescript • Angular • Unit Testing with Jasmine
+
 **Front end skills**:</br>
 HTML5 • CSS3 • SASS • Javascript ES6+ • ReactJS • Redux • Jest • Axios • Webpack • SEO • Bootstrap • Material UI
 
 **Back end skills**:<br/>
 Nodejs • Express • Rest APIs • TDD with Jest • PostgreSQL • SQLite • Sequelize • JWT • MVC • Swagger
 
-**I believe that if programming is the language of the future, we women should be part of this construction** 👩‍💻
-
+---
 
 <a href="https://github.com/cunhasbia/github-readme-stats">
   <img height="156" align="center" src="https://github-readme-stats.vercel.app/api?username=cunhasbia&count_private=true&show_icons=true&custom_title=Bianca's%20Github%20Stats&hide=issues&theme=vision-friendly-dark" />
