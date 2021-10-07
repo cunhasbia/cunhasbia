@@ -1,20 +1,14 @@
 ## Hi there! Welcome :)
 
-I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday!
+My purpose is to transform people's lives through technology and also encourage more women to explore careers in the IT field.
 
-• Currently working at **[IBM](https://ibm.com)** :blue_heart:
-<br/>• Focused on **Javascript** stack
-<br/>• Enthusiast about the best **web & mobile** technologies
+• Working as a **Software Developer** at **[IBM](https://ibm.com)** :blue_heart:
+<br/>• Currently learning **mobile** development with React Native
 <br/>• I **love to talk about**: Programming, Science, Astronomy, Blockchain, Music
+<br/>• Motivated student, always looking to be better than yesterday!
 
-**Languages**:</br>
-Javascript • Typescript
-
-**Front end skills**:</br>
-HTML5 • CSS3 • SASS • ReactJS • Angular • Redux • Jest • Bootstrap • Material UI • Webpack
-
-**Back end skills**:<br/>
-Nodejs • Express • Rest APIs • TDD with Jest • PostgreSQL • SQLite • Sequelize • JWT • MVC
+**Stack & Skills**:</br>
+Javascript • Typescript • React • Redux • React Native • Nodejs • Rest APIs • PostgreSQL • Jest • Angular • SASS • Git
 
 ---
 
@@ -25,6 +19,6 @@ Nodejs • Express • Rest APIs • TDD with Jest • PostgreSQL • SQLite •
    <img height="156" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhasbia&layout=compact&theme=vision-friendly-dark&langs_count=6)" />
 </a>
 
-<br/>[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&link=https://linkedin.com/in/biancascunha)](https://linkedin.com/in/biancascunha)
+</br>[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&link=https://linkedin.com/in/biancascunha)](https://linkedin.com/in/biancascunha)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:biancunha@gmail.com)](mailto:biancunha@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/cunhasbia)](https://instagram.com/cunhasbia)
