@@ -1,8 +1,8 @@
 ## Hi there! Welcome :)
 
-My purpose is to transform people's lives through technology and also encourage more women to explore careers in the IT field.
+My purpose is to transform lives through technology, and also encourage women to explore careers in the IT field.
 
-• Working as a **Software Developer** at **[IBM](https://ibm.com)** :blue_heart:
+• Undergraduate student of **Software Analysis and Development**
 <br/>• Currently learning **mobile** development with React Native
 <br/>• I **love to talk about**: Programming, Science, Astronomy, Blockchain, Music
 <br/>• Motivated student, always looking to be better than yesterday!
