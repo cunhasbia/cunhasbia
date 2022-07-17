@@ -1,11 +1,11 @@
 ## Hi there! Welcome :)
 
-My purpose is to transform lives through technology, and also encourage women to explore careers in the IT field.
+My purpose is to transform lives through technology and also encourage more women to explore careers in the IT field.
 
-• Undergraduate student of **Software Analysis and Development**
-<br/>• Currently learning **mobile** development with React Native
-<br/>• I **love to talk about**: Programming, Science, Astronomy, Blockchain, Music
-<br/>• Motivated student, always looking to be better than yesterday!
+• Currently working at **[Oracle](https://oracle.com/br)** :heart:
+<br/>• Graduating in **Systems Analysis and Development**
+<br/>• I **love to talk about**: Programming, Science, Series, Cats, Nutrition, Music
+<br/>• Motivated student always looking for personal and professional growth
 
 **Stack & Skills**:</br>
 Javascript • Typescript • React • Redux • React Native • Nodejs • Rest APIs • PostgreSQL • Jest • Angular • SASS • Git
